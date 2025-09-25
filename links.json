@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "titulo": "Globo",
+    "url": "https://www.globo.com"
+  },
+  {
+    "id": 2,
+    "titulo": "G1 Notícias",
+    "url": "https://g1.globo.com"
+  },
+  {
+    "id": 3,
+    "titulo": "BBC News Brasil",
+    "url": "https://www.bbc.com/portuguese"
+  },
+  {
+    "id": 4,
+    "titulo": "CNN Brasil",
+    "url": "https://www.cnnbrasil.com.br"
+  }
+]
