@@ -3,36 +3,180 @@
     "id": 1,
     "titulo": "Globo",
     "url": "https://www.globo.com",
-    "imagem": "https://raw.githubusercontent.com/joycenick/ApiTestNoticias/main/images/globo.png"
+    "imagem": "https://s2.glbimg.com/4v3N5Jok7Qv8NqW7s7YJpG5Jt3s=/0x0:512x512/512x512/smart/https://s.glbimg.com/jo/g1/f/original/2014/04/02/globo.png"
   },
   {
     "id": 2,
     "titulo": "G1 Notícias",
     "url": "https://g1.globo.com",
-    "imagem": "https://raw.githubusercontent.com/joycenick/ApiTestNoticias/main/images/g1.png"
+    "imagem": "https://s2.glbimg.com/ujQyZkXZ7vwR3m7z6n5F3xktl9w=/0x0:512x512/512x512/smart/https://s.glbimg.com/jo/g1/f/original/2014/04/02/g1.png"
   },
   {
     "id": 3,
     "titulo": "BBC News Brasil",
     "url": "https://www.bbc.com/portuguese",
-    "imagem": "https://raw.githubusercontent.com/joycenick/ApiTestNoticias/main/images/bbc.png"
+    "imagem": "https://news.files.bbci.co.uk/include/newsspec/19854-pigeon-brazil/assets/app-project-assets/bbc-brasil.png"
   },
   {
     "id": 4,
     "titulo": "CNN Brasil",
     "url": "https://www.cnnbrasil.com.br",
-    "imagem": "https://raw.githubusercontent.com/joycenick/ApiTestNoticias/main/images/cnn.png"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/CNN_Brasil_logo.png"
   },
   {
     "id": 5,
     "titulo": "UOL",
     "url": "https://www.uol.com.br",
-    "imagem": "https://raw.githubusercontent.com/joycenick/ApiTestNoticias/main/images/uol.png"
+    "imagem": "https://conteudo.imguol.com.br/c/parceiros/6e/2021/03/02/logo-uol-1614713675731_v2_450x450.png"
   },
   {
     "id": 6,
     "titulo": "Folha de S.Paulo",
     "url": "https://www.folha.uol.com.br",
-    "imagem": "https://raw.githubusercontent.com/joycenick/ApiTestNoticias/main/images/folha.png"
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Folha_de_S.Paulo_logo.svg/2560px-Folha_de_S.Paulo_logo.svg.png"
+  },
+  {
+    "id": 7,
+    "titulo": "Estadão",
+    "url": "https://www.estadao.com.br",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Estadao.png"
+  },
+  {
+    "id": 8,
+    "titulo": "El País Brasil",
+    "url": "https://brasil.elpais.com",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/El_Pa%C3%ADs_logo.svg"
+  },
+  {
+    "id": 9,
+    "titulo": "Valor Econômico",
+    "url": "https://valor.globo.com",
+    "imagem": "https://s2-valor.glbimg.com/5E8DqRL3P5uodvjYgIfV60MpR7E=/0x0:600x315/984x0/smart/filters:quality(70)/s.glbimg.com/po/tt2/f/original/2013/10/23/valor.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "R7",
+    "url": "https://www.r7.com",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/R7_logo.svg/1200px-R7_logo.svg.png"
+  },
+  {
+    "id": 11,
+    "titulo": "Terra",
+    "url": "https://www.terra.com.br",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Terra.com_logo.png"
+  },
+  {
+    "id": 12,
+    "titulo": "Yahoo Notícias",
+    "url": "https://br.noticias.yahoo.com",
+    "imagem": "https://s.yimg.com/cv/apiv2/br/300x300/yahoo_noticias.png"
+  },
+  {
+    "id": 13,
+    "titulo": "Google Notícias",
+    "url": "https://news.google.com",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_News_icon.png"
+  },
+  {
+    "id": 14,
+    "titulo": "The Guardian",
+    "url": "https://www.theguardian.com/brasil",
+    "imagem": "https://assets.guim.co.uk/images/favicons/57x57.png"
+  },
+  {
+    "id": 15,
+    "titulo": "Reuters Brasil",
+    "url": "https://br.reuters.com",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Reuters_Logo.svg"
+  },
+  {
+    "id": 16,
+    "titulo": "Bloomberg",
+    "url": "https://www.bloomberg.com/latam",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bloomberg_logo.svg"
+  },
+  {
+    "id": 17,
+    "titulo": "New York Times",
+    "url": "https://www.nytimes.com/pt",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/7/77/New_York_Times_logo_variation.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "Washington Post",
+    "url": "https://www.washingtonpost.com",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Washington_Post_logo_2014.png"
+  },
+  {
+    "id": 19,
+    "titulo": "France 24",
+    "url": "https://www.france24.com/pt/",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/FRANCE24_logo.svg/2560px-FRANCE24_logo.svg.png"
+  },
+  {
+    "id": 20,
+    "titulo": "Deutsche Welle",
+    "url": "https://www.dw.com/pt-br",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Deutsche_Welle_logo.svg"
+  },
+  {
+    "id": 21,
+    "titulo": "NHK World Japan",
+    "url": "https://www3.nhk.or.jp/nhkworld/pt/",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fd/NHK_logo_2020.svg"
+  },
+  {
+    "id": 22,
+    "titulo": "Al Jazeera",
+    "url": "https://www.aljazeera.com",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/2/20/Al_Jazeera_logo.svg"
+  },
+  {
+    "id": 23,
+    "titulo": "Estadão Economia",
+    "url": "https://economia.estadao.com.br",
+    "imagem": "https://www.estadao.com.br/pf/resources/images/estadao-share.jpg"
+  },
+  {
+    "id": 24,
+    "titulo": "Veja",
+    "url": "https://veja.abril.com.br",
+    "imagem": "https://abrilveja.files.wordpress.com/2016/09/cropped-cropped-logo-veja-2.png"
+  },
+  {
+    "id": 25,
+    "titulo": "Exame",
+    "url": "https://exame.com",
+    "imagem": "https://cdn.exame.com/wp-content/uploads/2021/01/cropped-favicon-exame-192x192-1.png"
+  },
+  {
+    "id": 26,
+    "titulo": "Infomoney",
+    "url": "https://www.infomoney.com.br",
+    "imagem": "https://s2-g1.glbimg.com/fUtyf4-5z7j4A1xYwD0FQ3a4sZw=/0x0:400x400/360x360/smart/filters:quality(70)/s.glbimg.com/og/ed/f/original/2014/09/04/infomoney.png"
+  },
+  {
+    "id": 27,
+    "titulo": "Gazeta do Povo",
+    "url": "https://www.gazetadopovo.com.br",
+    "imagem": "https://www.gazetadopovo.com.br/common/img/gazeta-do-povo.png"
+  },
+  {
+    "id": 28,
+    "titulo": "Carta Capital",
+    "url": "https://www.cartacapital.com.br",
+    "imagem": "https://www.cartacapital.com.br/wp-content/uploads/2019/08/logo-carta-capital.png"
+  },
+  {
+    "id": 29,
+    "titulo": "O Antagonista",
+    "url": "https://www.oantagonista.com",
+    "imagem": "https://static.oantagonista.com/uploads/2019/02/og.png"
+  },
+  {
+    "id": 30,
+    "titulo": "Nexo Jornal",
+    "url": "https://www.nexojornal.com.br",
+    "imagem": "https://www.nexojornal.com.br/favicon.png"
   }
 ]
