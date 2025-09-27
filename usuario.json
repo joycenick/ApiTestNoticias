@@ -3,7 +3,6 @@
     "nome_completo": "João Silva",
     "email": "iQHsA@example.com",
     "num_cracha": "12345",
-    "data_nascimento": "1990-05-15",
     "localizacao": "SP",
     "codigo_empresa": "EMP001"
   },
@@ -11,7 +10,6 @@
     "nome_completo": "Maria Oliveira",
     "email": "n0GZG@example.com",
     "num_cracha": "67890",
-    "data_nascimento": "1985-09-20",
     "localizacao": "RJ",
     "codigo_empresa": "EMP002"
   },
@@ -19,7 +17,6 @@
     "nome_completo": "Carlos Pereira",
     "email": "L5Ml3@example.com",
     "num_cracha": "54321",
-    "data_nascimento": "1992-12-10",
     "localizacao": "MG",
     "codigo_empresa": "EMP003"
   },
@@ -27,7 +24,6 @@
     "nome_completo": "Ana Souza",
     "email": "aSouza@example.com",
     "num_cracha": "11223",
-    "data_nascimento": "1995-03-08",
     "localizacao": "BA",
     "codigo_empresa": "EMP004"
   },
@@ -35,7 +31,6 @@
     "nome_completo": "Pedro Santos",
     "email": "pSantos@example.com",
     "num_cracha": "99887",
-    "data_nascimento": "1988-07-21",
     "localizacao": "PR",
     "codigo_empresa": "EMP005"
   },
@@ -43,7 +38,6 @@
     "nome_completo": "Fernanda Lima",
     "email": "fLima@example.com",
     "num_cracha": "44556",
-    "data_nascimento": "1993-11-19",
     "localizacao": "SC",
     "codigo_empresa": "EMP006"
   },
@@ -51,7 +45,6 @@
     "nome_completo": "Ricardo Almeida",
     "email": "rAlmeida@example.com",
     "num_cracha": "77889",
-    "data_nascimento": "1991-01-25",
     "localizacao": "RS",
     "codigo_empresa": "EMP007"
   },
@@ -59,7 +52,6 @@
     "nome_completo": "Juliana Costa",
     "email": "jCosta@example.com",
     "num_cracha": "33445",
-    "data_nascimento": "1989-06-17",
     "localizacao": "PE",
     "codigo_empresa": "EMP008"
   },
@@ -67,7 +59,6 @@
     "nome_completo": "Felipe Rocha",
     "email": "fRocha@example.com",
     "num_cracha": "55667",
-    "data_nascimento": "1994-10-02",
     "localizacao": "CE",
     "codigo_empresa": "EMP009"
   },
@@ -75,7 +66,6 @@
     "nome_completo": "Camila Nunes",
     "email": "cNunes@example.com",
     "num_cracha": "22334",
-    "data_nascimento": "1987-04-12",
     "localizacao": "GO",
     "codigo_empresa": "EMP010"
   },
@@ -83,7 +73,6 @@
     "nome_completo": "Bruno Fernandes",
     "email": "bFernandes@example.com",
     "num_cracha": "88990",
-    "data_nascimento": "1996-09-29",
     "localizacao": "MT",
     "codigo_empresa": "EMP011"
   },
@@ -91,7 +80,6 @@
     "nome_completo": "Larissa Martins",
     "email": "lMartins@example.com",
     "num_cracha": "66778",
-    "data_nascimento": "1992-02-05",
     "localizacao": "MS",
     "codigo_empresa": "EMP012"
   },
@@ -99,7 +87,6 @@
     "nome_completo": "Diego Carvalho",
     "email": "dCarvalho@example.com",
     "num_cracha": "44557",
-    "data_nascimento": "1990-08-15",
     "localizacao": "DF",
     "codigo_empresa": "EMP013"
   },
@@ -107,7 +94,6 @@
     "nome_completo": "Tatiane Ramos",
     "email": "tRamos@example.com",
     "num_cracha": "77881",
-    "data_nascimento": "1986-12-22",
     "localizacao": "AM",
     "codigo_empresa": "EMP014"
   },
@@ -115,7 +101,6 @@
     "nome_completo": "Rafael Gomes",
     "email": "rGomes@example.com",
     "num_cracha": "99332",
-    "data_nascimento": "1995-05-10",
     "localizacao": "PA",
     "codigo_empresa": "EMP015"
   },
@@ -123,7 +108,6 @@
     "nome_completo": "Isabela Araújo",
     "email": "iAraujo@example.com",
     "num_cracha": "11229",
-    "data_nascimento": "1991-03-30",
     "localizacao": "MA",
     "codigo_empresa": "EMP016"
   },
@@ -131,7 +115,6 @@
     "nome_completo": "Leonardo Mendes",
     "email": "lMendes@example.com",
     "num_cracha": "77665",
-    "data_nascimento": "1989-11-11",
     "localizacao": "PI",
     "codigo_empresa": "EMP017"
   },
@@ -139,7 +122,6 @@
     "nome_completo": "Patrícia Barbosa",
     "email": "pBarbosa@example.com",
     "num_cracha": "33447",
-    "data_nascimento": "1993-01-18",
     "localizacao": "AL",
     "codigo_empresa": "EMP018"
   },
@@ -147,7 +129,6 @@
     "nome_completo": "Thiago Castro",
     "email": "tCastro@example.com",
     "num_cracha": "22331",
-    "data_nascimento": "1994-07-27",
     "localizacao": "SE",
     "codigo_empresa": "EMP019"
   },
@@ -155,7 +136,6 @@
     "nome_completo": "Carolina Moreira",
     "email": "cMoreira@example.com",
     "num_cracha": "66770",
-    "data_nascimento": "1988-02-09",
     "localizacao": "RO",
     "codigo_empresa": "EMP020"
   },
@@ -163,7 +143,6 @@
     "nome_completo": "Marcelo Duarte",
     "email": "mDuarte@example.com",
     "num_cracha": "88991",
-    "data_nascimento": "1990-09-13",
     "localizacao": "RR",
     "codigo_empresa": "EMP021"
   },
@@ -171,7 +150,6 @@
     "nome_completo": "Amanda Teixeira",
     "email": "aTeixeira@example.com",
     "num_cracha": "44559",
-    "data_nascimento": "1996-06-24",
     "localizacao": "AC",
     "codigo_empresa": "EMP022"
   },
@@ -179,7 +157,6 @@
     "nome_completo": "Gabriel Farias",
     "email": "gFarias@example.com",
     "num_cracha": "77882",
-    "data_nascimento": "1992-05-06",
     "localizacao": "AP",
     "codigo_empresa": "EMP023"
   },
@@ -187,7 +164,6 @@
     "nome_completo": "Beatriz Cunha",
     "email": "bCunha@example.com",
     "num_cracha": "11228",
-    "data_nascimento": "1987-01-16",
     "localizacao": "TO",
     "codigo_empresa": "EMP024"
   },
@@ -195,7 +171,6 @@
     "nome_completo": "Rodrigo Pires",
     "email": "rPires@example.com",
     "num_cracha": "99334",
-    "data_nascimento": "1995-08-08",
     "localizacao": "ES",
     "codigo_empresa": "EMP025"
   },
@@ -203,7 +178,6 @@
     "nome_completo": "Elaine Batista",
     "email": "eBatista@example.com",
     "num_cracha": "66779",
-    "data_nascimento": "1991-12-19",
     "localizacao": "RN",
     "codigo_empresa": "EMP026"
   },
@@ -211,7 +185,6 @@
     "nome_completo": "André Moraes",
     "email": "aMoraes@example.com",
     "num_cracha": "22339",
-    "data_nascimento": "1989-04-03",
     "localizacao": "PB",
     "codigo_empresa": "EMP027"
   },
@@ -219,7 +192,6 @@
     "nome_completo": "Paula Freitas",
     "email": "pFreitas@example.com",
     "num_cracha": "44561",
-    "data_nascimento": "1993-09-12",
     "localizacao": "MT",
     "codigo_empresa": "EMP028"
   },
@@ -227,7 +199,6 @@
     "nome_completo": "Sérgio Lopes",
     "email": "sLopes@example.com",
     "num_cracha": "88993",
-    "data_nascimento": "1988-06-01",
     "localizacao": "BA",
     "codigo_empresa": "EMP029"
   },
@@ -235,7 +206,6 @@
     "nome_completo": "Viviane Correia",
     "email": "vCorreia@example.com",
     "num_cracha": "77883",
-    "data_nascimento": "1994-02-22",
     "localizacao": "SP",
     "codigo_empresa": "EMP030"
   }
