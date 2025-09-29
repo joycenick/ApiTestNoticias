@@ -1,37 +1,79 @@
 [
   {
-    "user_id_cracha": "12345",
-    "usuario_nome": "João Silva",
-    "posts_salvos_ids": [1, 5, 8, 12, 18]
+    "user_id": 1,
+    "user_nome": "João Silva",
+    "salvos": [
+      {
+        "post_id": 2,
+        "titulo": "G1 Notícias",
+        "url": "https://g1.globo.com",
+        "imagem": "https://s2.glbimg.com/ujQyZkXZ7vwR3m7z6n5F3xktl9w=/0x0:512x512/512x512/smart/https://s.glbimg.com/jo/g1/f/original/2014/04/02/g1.png"
+      },
+      {
+        "post_id": 5,
+        "titulo": "UOL",
+        "url": "https://www.uol.com.br",
+        "imagem": "https://conteudo.imguol.com.br/c/parceiros/6e/2021/03/02/logo-uol-1614713675731_v2_450x450.png"
+      }
+    ]
   },
   {
-    "user_id_cracha": "67890",
-    "usuario_nome": "Maria Oliveira",
-    "posts_salvos_ids": [2, 4, 6, 10, 16, 20, 24]
+    "user_id": 2,
+    "user_nome": "Maria Oliveira",
+    "salvos": [
+      {
+        "post_id": 1,
+        "titulo": "Globo",
+        "url": "https://www.globo.com",
+        "imagem": "https://s2.glbimg.com/4v3N5Jok7Qv8NqW7s7YJpG5Jt3s=/0x0:512x512/512x512/smart/https://s.glbimg.com/jo/g1/f/original/2014/04/02/globo.png"
+      },
+      {
+        "post_id": 3,
+        "titulo": "BBC News Brasil",
+        "url": "https://www.bbc.com/portuguese",
+        "imagem": "https://news.files.bbci.co.uk/include/newsspec/19854-pigeon-brazil/assets/app-project-assets/bbc-brasil.png"
+      },
+      {
+        "post_id": 7,
+        "titulo": "Estadão",
+        "url": "https://www.estadao.com.br",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_Estadao.png"
+      }
+    ]
   },
   {
-    "user_id_cracha": "54321",
-    "usuario_nome": "Carlos Pereira",
-    "posts_salvos_ids": [1, 2, 3, 4, 5, 6, 7]
+    "user_id": 3,
+    "user_nome": "Carlos Pereira",
+    "salvos": [
+      {
+        "post_id": 4,
+        "titulo": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/CNN_Brasil_logo.png"
+      }
+    ]
   },
   {
-    "user_id_cracha": "11223",
-    "usuario_nome": "Ana Souza",
-    "posts_salvos_ids": [3, 9, 15, 21, 27]
+    "user_id": 4,
+    "user_nome": "Ana Souza",
+    "salvos": []
   },
   {
-    "user_id_cracha": "99887",
-    "usuario_nome": "Pedro Santos",
-    "posts_salvos_ids": [11, 13, 17, 19, 23, 25]
-  },
-  {
-    "user_id_cracha": "44556",
-    "usuario_nome": "Fernanda Lima",
-    "posts_salvos_ids": [14, 26, 28, 30]
-  },
-  {
-    "user_id_cracha": "77889",
-    "usuario_nome": "Ricardo Almeida",
-    "posts_salvos_ids": [1, 10, 29]
+    "user_id": 5,
+    "user_nome": "Pedro Santos",
+    "salvos": [
+      {
+        "post_id": 6,
+        "titulo": "Folha de S.Paulo",
+        "url": "https://www.folha.uol.com.br",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Folha_de_S.Paulo_logo.svg/2560px-Folha_de_S.Paulo_logo.svg.png"
+      },
+      {
+        "post_id": 9,
+        "titulo": "Valor Econômico",
+        "url": "https://valor.globo.com",
+        "imagem": "https://s2-valor.glbimg.com/5E8DqRL3P5uodvjYgIfV60MpR7E=/0x0:600x315/984x0/smart/filters:quality(70)/s.glbimg.com/po/tt2/f/original/2013/10/23/valor.jpg"
+      }
+    ]
   }
 ]
